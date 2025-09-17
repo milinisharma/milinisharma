@@ -45,5 +45,5 @@
 </div>
 
 
-<img src="https://raw.githubusercontent.com/milinisharma/milinisharma/output/snake.svg" alt="Snake animation" />
+<img src="https://raw.githubusercontent.com/milinisharma/milinisharma/output/github-snake-dark.svg" alt="Snake animation" />
 
