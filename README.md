@@ -1,5 +1,5 @@
 <h1 align="center">Namaste! 🙏, I'm Milini Sharma</h1>
-<h3 align="center">A passionate Software Developer from India❣️</h3>
+<h3 align="center">A passionate Software Developer from Bharat❣️</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=milinisharma&label=Profile%20views&color=0e75b6&style=flat" alt="milinisharma" /> </p>
 
@@ -40,3 +40,6 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=milinisharma&show_icons=true&locale=en&layout=compact" alt="milinisharma" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=milinisharma&show_icons=true&locale=en" alt="milinisharma" /></p>
+
+<img src="https://raw.githubusercontent.com/milinisharma/milinisharma/output/snake.svg" alt="Snake animation" />
+
