@@ -45,7 +45,7 @@
 | **🧪 Testing** | <div align="left"><img src="https://www.vectorlogo.zone/logos/jasmine/jasmine-icon.svg" width="40"/></div> |
 | **🛠️ Tools** | <div align="left"><img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" width="40"/> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" width="40"/> <img src="https://www.chartjs.org/media/logo-title.svg" width="40"/> <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" width="40"/> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" width="40"/> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" width="40"/></div> |
 
-
+#
 <div align="center">
   <img src="https://media.giphy.com/media/HKl5QYQF5aOdO/giphy.gif" alt="puppy gif" width="150" />
   <img src="https://github-readme-stats.vercel.app/api?username=milinisharma&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph" />
@@ -53,13 +53,11 @@
   
 </div>
 
-
 <!-- <img src="https://raw.githubusercontent.com/milinisharma/milinisharma/output/github-snake-dark.svg" alt="Snake animation" /> -->
-
+#
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/milinisharma/milinisharma/output/pacman-contribution-graph-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/milinisharma/milinisharma/output/pacman-contribution-graph.svg">
   <img alt="Pac-Man contribution graph" src="https://raw.githubusercontent.com/milinisharma/milinisharma/output/pacman-contribution-graph.svg">
 </picture>
-_Generated with [abozanona/pacman-contribution-graph](https://abozanona.github.io/pacman-contribution-graph/)_
 
