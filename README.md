@@ -57,8 +57,8 @@
 ---
 
 <div align="center">
-  <img src="https://media.giphy.com/media/HKl5QYQF5aOdO/giphy.gif" alt="puppy gif" width="150" />
-  <br><br>
+<!--   <img src="https://media.giphy.com/media/HKl5QYQF5aOdO/giphy.gif" alt="puppy gif" width="150" />
+  <br><br> -->
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=milinisharma&layout=compact&theme=dracula&hide_border=false&langs_count=5" height="150" alt="languages graph" />
 </div>
 
