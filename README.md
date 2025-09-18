@@ -9,16 +9,15 @@
 
 ### 🌟 About Me
 
-🔭 Currently building cool stuff in EdTech and exploring ways to make engineering growth more impactful.  
-🌱 On a learning journey with Node.js, Express, and Next.js — enjoying the challenge of expanding my backend superpowers.  
-👯 Always up for collaborating on exciting projects (like a Node Task Tracker) where ideas turn into real solutions.  
-🤝 Open to connecting with folks who share love for Node.js & Angular — especially when it comes to backend integrations or pushing Angular’s limits.  
-👨‍💻 My projects are slowly finding their home online — (work in progress… but stay tuned!)  
-📝 Occasionally put thoughts into words on Notion & Medium — tech, growth, and a sprinkle of curiosity.  
-💬 Love geeking out about Angular, React, Node, and Java — but conversations don’t always have to be about code.  
-📫 Best way to say hi: **milinisharma@yahoo.com**  
-📄 A proper portfolio & experience page? That’s on the way — consider it *“loading…”* 🚀  
-⚡ Fun fact: 📚 Currently hooked on *“The Laws of Human Nature.”* Turns out, debugging code feels oddly similar to decoding people’s behavior. Sweet, frustrating, but oh-so rewarding.  
+🔭 Building **impactful EdTech products** while driving **engineering growth**.  
+🌱 Currently expanding my backend skills with **Node.js, Express, and Next.js**.  
+👯 Open to **collaborations**, such as developing **Node Task Trackers** and other innovative projects.  
+🤝 Passionate about working with **Node.js & Angular**, especially in **backend integrations and full-stack solutions**.  
+📝 Sharing technical insights & tutorials on **[Notion](https://www.notion.so/Jasmine-and-Karma-with-Angular-1c71d52714bb804ca0d0c49ec6bd6e1b)** and **[Medium](https://medium.com/@milini.sharma)**.  
+💬 Feel free to ask me about **Angular, React, Node.js, or Java**.  
+📫 Connect with me at **milinisharma@yahoo.com**.  
+📄 A detailed portfolio & experience page is *“loading…”* 🚀 — stay tuned!  
+⚡ Fun fact: 📚 Currently reading *“The Laws of Human Nature”*. Debugging code sometimes feels like decoding human behavior — frustrating, intriguing, and immensely rewarding.
 
 ---
 
