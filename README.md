@@ -25,16 +25,27 @@
 
 ⚡ Fun fact: 📚 Currently hooked on “The Laws of Human Nature.” Turns out, debugging code feels oddly similar to decoding people’s behavior. Sweet, frustrating, but oh-so rewarding.
 
-### Blogs posts
+### Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Jasmine and Karma with Angular](https://www.notion.so/Jasmine-and-Karma-with-Angular-1c71d52714bb804ca0d0c49ec6bd6e1b)
 <!-- BLOG-POST-LIST:END -->
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/milinisharmaangulardeveloper" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="milinisharmaangulardeveloper" height="30" width="30" /></a>
-<a href="https://instagram.com/milinisharma__" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="milinisharma__" height="30" width="30" /></a>
-<a href="https://medium.com/@milini.sharma" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@milini.sharma" height="30" width="30" /></a>
+<h3 align="center">Connect with me:</h3>
+
+<p align="center">
+  <a href="https://linkedin.com/in/milinisharmaangulardeveloper" target="_blank">
+    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="40" width="40"/>
+  </a>
+  &nbsp;&nbsp;&nbsp;
+  <a href="https://instagram.com/milinisharma__" target="_blank">
+    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="Instagram" height="40" width="40"/>
+  </a>
+  &nbsp;&nbsp;&nbsp;
+  <a href="https://medium.com/@milini.sharma" target="_blank">
+    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="Medium" height="40" width="40"/>
+  </a>
 </p>
+
 
 <h3 align="left">Languages and Tools</h3>
 
