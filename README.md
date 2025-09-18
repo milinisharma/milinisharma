@@ -3,25 +3,27 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=milinisharma&label=Profile%20views&color=0e75b6&style=flat" alt="milinisharma" /> </p>
 
-- 🔭 I’m currently working on products related to Ed tech **products related to EdTech and engineering growth**
+### 🌟 About Me
 
-- 🌱 I’m currently learning **Node.js, Express and Next.js**
+🔭 Currently building cool stuff in EdTech and exploring ways to make engineering growth more impactful.
 
-- 👯 I’m looking to collaborate on projects like Node **Task Tracker**
+🌱 On a learning journey with Node.js, Express, and Next.js — enjoying the challenge of expanding my backend superpowers.
 
-- 🤝 I’m looking for help with Node.js & Angular-based projects **Backend integrations & advanced Angular features**
+👯 Always up for collaborating on exciting projects (like a Node Task Tracker) where ideas turn into real solutions.
 
-- 👨‍💻 All of my projects are available at [(Work in progress — coming soon!)]((Work in progress — coming soon!))
+🤝 Open to connecting with folks who share love for Node.js & Angular — especially when it comes to backend integrations or pushing Angular’s limits.
 
-- 📝 I regularly write articles on [Notion, Medium](Notion, Medium)
+👨‍💻 My projects are slowly finding their home online — (work in progress… but stay tuned!)
 
-- 💬 Ask me about **Angular, React, Node, Java**
+📝 Occasionally put thoughts into words on Notion & Medium — tech, growth, and a sprinkle of curiosity.
 
-- 📫 How to reach me **milinisharma@yahoo.com**
+💬 Love geeking out about Angular, React, Node, and Java — but conversations don’t always have to be about code.
 
-- 📄 Know about my experiences [Coming Soon](Coming Soon)
+📫 Best way to say hi: milinisharma@yahoo.com
 
-- ⚡ Fun fact **📚 I’m an avid reader — currently diving into *“The Laws of Human Nature”*. Fun twist: sometimes I end up debugging my code the same way I decode human behavior 😉**
+📄 A proper portfolio & experience page? That’s on the way — consider it “loading…” 🚀
+
+⚡ Fun fact: 📚 Currently hooked on “The Laws of Human Nature.” Turns out, debugging code feels oddly similar to decoding people’s behavior. Sweet, frustrating, but oh-so rewarding.
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
