@@ -54,5 +54,12 @@
 </div>
 
 
-<img src="https://raw.githubusercontent.com/milinisharma/milinisharma/output/github-snake-dark.svg" alt="Snake animation" />
+<!-- <img src="https://raw.githubusercontent.com/milinisharma/milinisharma/output/github-snake-dark.svg" alt="Snake animation" /> -->
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/milinisharma/milinisharma/output/pacman-contribution-graph-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/milinisharma/milinisharma/output/pacman-contribution-graph.svg">
+  <img alt="Pac-Man contribution graph" src="https://raw.githubusercontent.com/milinisharma/milinisharma/output/pacman-contribution-graph.svg">
+</picture>
+_Generated with [abozanona/pacman-contribution-graph](https://abozanona.github.io/pacman-contribution-graph/)_
 
