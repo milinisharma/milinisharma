@@ -34,7 +34,7 @@
 <a href="https://medium.com/@milini.sharma" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@milini.sharma" height="30" width="30" /></a>
 </p>
 
-<h3 align="center">Languages and Tools</h3>
+<h3 align="left">Languages and Tools</h3>
 
 | | |
 |---|---|
