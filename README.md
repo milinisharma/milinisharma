@@ -6,7 +6,7 @@
 
 <h2 align="center" style="display: flex; justify-content: center; align-items: center; gap: 1rem;">
   <span>A passionate Software Developer from Bharat</span>
-  <img src="assets/india.png" width="30" alt="India Flag" >
+  <img src="assets/india.png" width="30" style="margin-top: 1rem" alt="India Flag" >
 </h2>
 
 <p align="left">
