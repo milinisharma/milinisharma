@@ -4,10 +4,9 @@
   , I'm Milini Sharma
 </h1>
 
-<h2 style="display: flex; justify-content: center; align-items: center; gap: 1rem;">
+<h2 align="center" style="display: flex; justify-content: center; align-items: center; gap: 1rem;">
   <span>A passionate Software Developer from Bharat</span>
-  <img src="assets/india.png" width="30" alt="India Flag" 
-       style="display:inline-block; vertical-align:middle;">
+  <img src="assets/india.png" width="30" alt="India Flag" >
 </h2>
 
 <p align="left">
