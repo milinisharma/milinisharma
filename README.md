@@ -36,7 +36,11 @@
 
 ---
 
-<h3 align="center">🤝 Connect with Me</h3>
+<h3 align="center">
+  <img src="assets/teamwork.gif" width="34" style="vertical-align: middle;" alt="Teamwork Icon">
+  <span style="font-size: 1.5em; position: relative; top: -10px;">Connect with Me</span>
+</h3>
+
 
 <p align="center">
   <a href="https://linkedin.com/in/milinisharmaangulardeveloper" target="_blank">
