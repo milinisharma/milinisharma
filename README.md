@@ -46,6 +46,10 @@
   <a href="https://medium.com/@milini.sharma" target="_blank">
     <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="Medium" height="40" width="40"/>
   </a>
+  &nbsp;&nbsp;&nbsp;
+  <a href="mailto:milinisharma@yahoo.com" target="_blank">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/4/4e/Gmail_Icon.png" alt="Gmail" height="40" width="40"/>
+  </a>
 </p>
 
 ---
