@@ -1,6 +1,6 @@
 <h1 align="center">
   Namaste! 
-  <img src="assets/namaste.png" height="40" style="display:inline-block; vertical-align:middle;">
+  <img src="assets/namaste.png" height="32" style="display:inline-block; vertical-align:middle;">
   , I'm Milini Sharma
 </h1>
 
