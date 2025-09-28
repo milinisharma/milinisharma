@@ -1,5 +1,14 @@
-<h1 align="center">Namaste! 🙏, I'm Milini Sharma</h1>
-<h3 align="center">A passionate Software Developer from Bharat❣️</h3>
+<h1 align="center">
+  Namaste! 
+  <img src="assets/namaste.png" height="40" style="display:inline-block; vertical-align:middle;">
+  , I'm Milini Sharma
+</h1>
+
+<h2 style="display: flex; justify-content: center; align-items: center; gap: 1rem;">
+  <span>A passionate Software Developer from Bharat</span>
+  <img src="assets/india.png" width="30" alt="India Flag" 
+       style="display:inline-block; vertical-align:middle;">
+</h2>
 
 <p align="left">
   <img src="https://komarev.com/ghpvc/?username=milinisharma&label=Profile%20views&color=0e75b6&style=flat" alt="milinisharma" />
