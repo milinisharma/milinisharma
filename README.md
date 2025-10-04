@@ -25,7 +25,7 @@
 💬 Feel free to ask me about **Angular, React, Node.js, or Java**.  
 <!-- 📫 Connect with me at **milinisharma@yahoo.com**.  -->
 📄 A detailed portfolio & experience page is *“loading…”* 🚀 — stay tuned!  
-⚡ Fun fact: 📚 Currently reading *“The Laws of Human Nature”*. Debugging code sometimes feels like decoding human behavior — frustrating, intriguing, and immensely rewarding.
+<!--⚡ Fun fact: 📚 Currently reading *“The Laws of Human Nature”*. Debugging code sometimes feels like decoding human behavior — frustrating, intriguing, and immensely rewarding. -->
 
 ---
 
