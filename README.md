@@ -23,7 +23,6 @@
 🤝 Passionate about working with **Node.js & Angular**, especially in **backend integrations and full-stack solutions**.  
 📝 Sharing technical insights & tutorials on **[Notion](https://www.notion.so/Jasmine-and-Karma-with-Angular-1c71d52714bb804ca0d0c49ec6bd6e1b)** and **[Medium](https://medium.com/@milini.sharma)**.  
 💬 Feel free to ask me about **Angular, React, Node.js, or Java**.  
-<!-- 📫 Connect with me at **milinisharma@yahoo.com**.  -->
 📄 A detailed portfolio & experience page is *“loading…”* 🚀 — stay tuned!  
 <!--⚡ Fun fact: 📚 Currently reading *“The Laws of Human Nature”*. Debugging code sometimes feels like decoding human behavior — frustrating, intriguing, and immensely rewarding. -->
 
@@ -72,8 +71,6 @@
 ---
 
 <div align="center">
-<!--   <img src="https://media.giphy.com/media/HKl5QYQF5aOdO/giphy.gif" alt="puppy gif" width="150" />
-  <br><br> -->
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=milinisharma&layout=compact&theme=dracula&hide_border=false&langs_count=5" height="150" alt="languages graph" />
 </div>
 
