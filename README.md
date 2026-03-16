@@ -18,7 +18,7 @@
 ### 🌟 About Me
 
 🔭 Building **impactful EdTech products** while driving **engineering growth**.  
-🌱 Currently expanding my backend skills with **Node.js, Express, and Next.js**.  
+🌱 Currently expanding my backend skills with **Node.js, Express, and Next.js** as well as Angular + ionic (web + mobile applications).  
 👯 Open to **collaborations**, such as developing **Node Task Trackers** and other innovative projects.  
 🤝 Passionate about working with **Node.js & Angular**, especially in **backend integrations and full-stack solutions**.  
 📝 Sharing technical insights & tutorials on **[Notion](https://www.notion.so/Jasmine-and-Karma-with-Angular-1c71d52714bb804ca0d0c49ec6bd6e1b)** and **[Medium](https://medium.com/@milini.sharma)**.  
