@@ -9,8 +9,13 @@
   <img src="assets/india.png" width="24" style="margin-top: 1rem" alt="India Flag" >
 </h2>
 
-<p align="left">
+<!-- <p align="left">
   <img src="https://komarev.com/ghpvc/?username=milinisharma&label=Profile%20views&color=0e75b6&style=flat" alt="milinisharma" />
+</p> -->
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=milinisharma&label=Profile%20Views&color=blueviolet&style=for-the-badge"/>
+  <!-- <img src="https://img.shields.io/github/followers/milinisharma?label=Followers&style=for-the-badge&color=orange"/> -->
 </p>
 
 ---
