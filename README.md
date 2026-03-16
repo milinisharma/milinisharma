@@ -76,7 +76,7 @@
 ---
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=milinisharma&layout=compact&theme=dracula&hide_border=false&langs_count=5" height="150" alt="languages graph" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=milinisharma&layout=compact&theme=tokyonight&hide_border=true&langs_count=6" height="160"/>
 </div>
 
 ---
