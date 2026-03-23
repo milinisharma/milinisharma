@@ -41,22 +41,22 @@
 ---
 
 <h3 align="center">
-  <img src="assets/teamwork.gif" width="34" style="vertical-align: middle;" alt="Teamwork Icon">
-  <span style="font-size: 1.5em; position: relative; top: -10px;">Connect with Me</span>
+  <img src="assets/teamwork.gif" width="30" height="30" style="vertical-align: middle;" />
+  Connect with Me
 </h3>
 
 
 <p align="center">
   <a href="https://linkedin.com/in/milinisharmaangulardeveloper" target="_blank">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="40" width="40"/>
+    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="30"/>
   </a>
   &nbsp;&nbsp;&nbsp;
   <a href="https://medium.com/@milini.sharma" target="_blank">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="Medium" height="40" width="40"/>
+    <img src="https://logowik.com/content/uploads/images/medium-icon239.logowik.com.webp" alt="Medium" height="30" width="30"/>
   </a>
   &nbsp;&nbsp;&nbsp;
   <a href="mailto:milinisharma@yahoo.com" target="_blank">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/4/4e/Gmail_Icon.png" alt="Gmail" height="40" width="40"/>
+    <img src="https://upload.wikimedia.org/wikipedia/commons/c/cc/Microsoft_Outlook_Icon_%282025–present%29.svg" alt="Gmail" height="30" width="30"/>
   </a>
 </p>
 
