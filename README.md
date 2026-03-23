@@ -19,6 +19,7 @@
 </p>
 
 ---
+<br>
 
 ### 🌟 About Me
 
@@ -32,6 +33,7 @@
 <!--⚡ Fun fact: 📚 Currently reading *“The Laws of Human Nature”*. Debugging code sometimes feels like decoding human behavior — frustrating, intriguing, and immensely rewarding. -->
 
 ---
+<br>
 
 ### ✍️ Blog Posts  
 <!-- BLOG-POST-LIST:START -->
@@ -40,10 +42,10 @@
 
 ---
 
-<h3 align="center">
-  <img src="assets/teamwork.gif" width="30" height="30" style="vertical-align: middle;" />
+<h4 align="center">
+  <img src="assets/teamwork.gif" width="20" height="20" style="vertical-align: middle;" />
   Connect with Me
-</h3>
+</h4>
 
 
 <p align="center">
@@ -62,8 +64,11 @@
 
 ---
 
+<br>
+
 ### 🛠️ Languages and Tools
 
+<br>
 <h3 align="center">🚀 Tech Stack</h3>
 
 <!-- <p align="center">
