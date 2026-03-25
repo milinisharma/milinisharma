@@ -108,6 +108,8 @@
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" width="30"/>
 <img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" width="30"/>
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original.svg" width="30"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlite/sqlite-original.svg" width="30"/>
+<img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" width="30"/>
 </td>
 </tr>
 
