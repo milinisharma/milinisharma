@@ -19,7 +19,6 @@
 </p>
 
 ---
-<br>
 
 ### 🌟 About Me
 
@@ -33,7 +32,6 @@
 <!--⚡ Fun fact: 📚 Currently reading *“The Laws of Human Nature”*. Debugging code sometimes feels like decoding human behavior — frustrating, intriguing, and immensely rewarding. -->
 
 ---
-<br>
 
 ### ✍️ Blog Posts  
 <!-- BLOG-POST-LIST:START -->
@@ -64,11 +62,8 @@
 
 ---
 
-<br>
-
 ### 🛠️ Languages and Tools
 
-<br>
 <h3 align="center">🚀 Tech Stack</h3>
 
 <!-- <p align="center">
